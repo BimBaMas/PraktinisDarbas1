@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-/*
+﻿/*
 Susklaiciuoti zemes rutulio plota. 6371km S = 4 π * R^2
  */
 
